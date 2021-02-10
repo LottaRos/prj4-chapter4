@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: repeat;
+}
+.something {
+    background-color: #8D8D8D;
+    width: 581px;
+    border-radius: 5px;
+    height: 77px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 11pt;
+    color: #2700FF;
+    text-align: left;
+    line-height: 14px;
+    border: thick solid #FFFFFF;
+}
+
+#my-id {color:red
+}
